@@ -10,3 +10,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#deploy
+src/SGAP/out/**/*
+src/SGAP_Final/out/**/*
+
+#idea
+#src/SGAP/.idea/**/*
+#src/SGAP_Final/.idea/workspace.xml
